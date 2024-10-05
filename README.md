@@ -6,3 +6,8 @@ Project 2: Quote Generator
 ![Alt Text](https://github.com/REBEL-OSUDA/JS-Mini-Projects/blob/main/Quote%20Generator%20-%20Google%20Chrome%202024-10-03%2011-22-56.gif)
 This project displays random motivating quotes and make sure the the quotes are not repeated until all the quotes are displayed.  
 
+Project 3:Stop Watch 
+![Alt Text](https://github.com/REBEL-OSUDA/JS-Mini-Projects/blob/main/StopWatch%20-%20Google%20Chrome%202024-10-05%2016-00-13.gif)
+This project utilizes the interval functions to make a stopwatch that can be started, paused and reset.
+
+
